@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ilias/Downloads/Mlflow_project/mlruns/0/5b3b6e4687c245ff80e0683ff5f7fc25/artifacts
+end_time: 1603894908733
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 5b3b6e4687c245ff80e0683ff5f7fc25
+run_uuid: 5b3b6e4687c245ff80e0683ff5f7fc25
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1603894762522
+status: 3
+tags: []
+user_id: ilias
